@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #86dae0;
+  background-color: #86dae0;
 }
 
 .navbar-container {
@@ -33,40 +33,40 @@ body {
 }
 
 .main-container {
-    display: grid;
+  display: grid;
 }
 
 .main-container .container > img {
-    width: 200px;
-    height: 200px;
-    border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
 }
 
 .main-container .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
 }
 
 .biodata {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #ffffff;
-    max-width: 1300px;
-    margin-left: 20px;
-    border-radius: 50px;
-    padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  max-width: 1300px;
+  margin-left: 20px;
+  border-radius: 50px;
+  padding: 10px;
 }
 
 .biodata > h1 {
-    color: #0324fc;
+  color: #0324fc;
 }
 
 .biodata > p {
-    padding-top: 15px;
-    max-width: 1200px;
-    text-align: center;
+  padding-top: 15px;
+  max-width: 1200px;
+  text-align: center;
 }
